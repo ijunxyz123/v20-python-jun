@@ -1,1 +1,1 @@
-src/README.rst
+djones.src/README.rst
